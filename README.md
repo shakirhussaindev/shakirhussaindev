@@ -1,5 +1,15 @@
 <img width="1774" height="603" alt="shakirhussaindev" src="https://github.com/user-attachments/assets/58ab5965-26ad-406c-a640-9a91aca95121" />
-<h1 align="center">Hi 👋, I'm Shakir Hussain</h1>
+
+<br/>
+
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi, I'm Shakir Hussain</h1></summary>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast" alt="Typing SVG" /></a>
+  </ul>
+</div>
 
  <br/>
 
