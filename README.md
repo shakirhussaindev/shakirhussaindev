@@ -12,7 +12,7 @@
 </div>
 
  <br/>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="200px"/>
+
 <!--- about --->
 - 👋 Hi, I’m **[@shakirhussaindev](https://github.com/shakirhussaindev)**
 - 🖥️ I’m currently working on **React.js, Next.js, JavaScript and Typescript** for frontend development.
@@ -60,5 +60,6 @@
 ### Tools & Technologies:
 [![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode)](https://github.com/shakirhussaindev)
 
+<div align="center"><img align="center" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/></div>
 <br/>
 
