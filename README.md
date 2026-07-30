@@ -1,16 +1,27 @@
-## Hi there 👋
+<img width="1774" height="603" alt="shakirhussaindev" src="https://github.com/user-attachments/assets/58ab5965-26ad-406c-a640-9a91aca95121" />
+<h1 align="center">Hi 👋, I'm Shakir Hussain</h1>
 
-<!--
-**shakirhussaindev/shakirhussaindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <br/>
 
-Here are some ideas to get you started:
+<!--- about --->
+- 👋 Hi, I’m **[@shakirhussaindev](https://github.com/shakirhussaindev)**
+- 🖥️ I’m currently working on **React.js, Next.js, JavaScript and Typescript** for frontend development.
+- 🗄️ Using **Node.js, Express.js, MongoDB and Mongoose** for the backend.
+- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB)**.
+- 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/shakir-hussain-js/)**
+- 📫 Feel free to reach me out **[Email](shakirhusain1414@gmail.com)**
+  
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--- socials --->
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
+
+<div>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/shakir-hussain-js/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="shakir-hussain-js" height="30" width="40" /></a>
+    <a href="https://dev.to/devshakir" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="devshakir" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/32709709/shakir-husain" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="32709709/shakir-husain" height="30" width="40" /></a>
+  </p>
+</div>
+
+<br/>
