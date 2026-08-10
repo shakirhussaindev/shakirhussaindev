@@ -18,6 +18,7 @@
 - 🖥️ I’m currently working on **React.js, Next.js, JavaScript and Typescript** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB and Mongoose** for the backend.
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB)**.
+- 🌐 Explore My Portfolio **[shakir-portfolio](https://shakir-portfolio-omega.vercel.app/)**
 - 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/shakir-hussain-js/)**
 - 📫 Feel free to reach me out **[Email](shakirhusain1414@gmail.com)**
   
